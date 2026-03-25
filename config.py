@@ -3,7 +3,7 @@ EXPERIENCE_LEVEL = ["intern", "entry", "fresher", "0-2"]
 
 LOCATION = "India"
 
-EMAIL = "varungadi2003@gmail.com"
-APP_PASSWORD ="npbrzpajquhsvswo"
+EMAIL = "YOUR MAIL"
+APP_PASSWORD ="YOUR APP PASSWORD "
 
 MAX_RESULTS = 100
